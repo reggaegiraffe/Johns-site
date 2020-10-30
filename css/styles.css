@@ -1,6 +1,6 @@
 #title {
   background-color: #000;
-  color: #000;
+  color: #FFF;
 }
 
 body {
@@ -158,6 +158,9 @@ h3 {
 #pricing{
   padding: 100px;
   text-align: center;
+  background-color: #000;
+  color: #FFF;
+
 }
 
 .pricing-head {
@@ -167,6 +170,7 @@ h3 {
 .pricing-column {
   padding: 3% 2%;
   background-color: #fca652;
+  color: #000;
 }
 
 /* Trilogy section */
@@ -199,6 +203,9 @@ h3 {
 #footer {
   text-align: center;
   padding: 7% 10%;
+  background-color: #000;
+  color: #FFF;
+
 }
 
 .media-icon {
