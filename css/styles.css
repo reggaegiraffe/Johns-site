@@ -4,25 +4,25 @@
 }
 
 body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', serif;
 }
 
 h1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', serif;
   font-size: 4rem;
   font-weight: 900;
   line-height: 1.5;
 }
 
 h2 {
-  font-family: 'Montserrat-Bold', sans-serif;
+  font-family: 'Montserrat-Bold', serif;
   font-size: 3rem;
   line-height: 1.5;
   font-weight: 900;
 }
 
 h3 {
-  font-family: 'Montserrat-Bold', sans-serif;
+  font-family: 'Montserrat-Bold', serif;
   font-size: 1.5rem;
 }
 
@@ -67,7 +67,7 @@ h3 {
 
 .navbar-brand {
   color: #000;
-  font-family: 'Ubuntu';
+  font-family: 'Bokor', serif;
   font-size: 2.5rem;
   font-weight: bold;
 }
