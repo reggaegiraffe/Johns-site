@@ -84,70 +84,7 @@ h3 {
 
 
 
-/* Features section */
-
-#features {
-  padding: 7% 15%;
-  background-color: #FFF;
-  z-index: 1;
-  position: relative;
-
-}
-
-.feature-col{
-  text-align: center;
-  padding: 5%;
-}
-
-
-.feature-icon {
-  color: #EF8172;
-  margin-bottom: 1rem;
-}
-
-.feature-icon:hover{
-  color: #FF4C68;
-}
-
-
-
-.feature-para {
-  color: #8F8F8F;
-}
-
-
-
-/* Reminisce section */
-
-
-#testimonials {
-  text-align: center;
-  background-color: #EF8172;
-  color: #FFF;
-}
-
-.testimonial-item {
-  padding: 7% 15%;
-}
-
-.testimonial-head {
-  font-family: 'Montserrat-Bold', sans-serif;
-  font-size: 3rem;
-  line-height: 1.5;
-  font-weight: 900;
-}
-
-.testimonial-image {
-  width: 30%;
-/*  border-radius: 100%;  */
-  margin: 20px;
-}
-
-
-
-
-
-/* Relax section */
+/* Book pricing section */
 
 #pricing{
   padding: 100px;
