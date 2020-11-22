@@ -4,25 +4,25 @@
 }
 
 body {
-  font-family: 'Montserrat', serif;
+  font-family: 'Helvetica', sans-serif;
 }
 
 h1 {
-  font-family: 'Montserrat', serif;
+  font-family: 'Helvetica', serif;
   font-size: 4rem;
   font-weight: 900;
   line-height: 1.5;
 }
 
 h2 {
-  font-family: 'Montserrat-Bold', serif;
+  font-family: 'Helvetica', serif;
   font-size: 3rem;
   line-height: 1.5;
   font-weight: 900;
 }
 
 h3 {
-  font-family: 'Montserrat-Bold', serif;
+  font-family: 'Helvetica', serif;
   font-size: 1.5rem;
 }
 
@@ -41,7 +41,7 @@ h3 {
   width: 100%;
   transform: rotate(0);
 
-<!--  right: 30%; -->
+/* <!--  right: 30%; --> */
 }
 @media (max-width: 1028px) {     /* Roughly size of tablet & mobile */
 
@@ -67,7 +67,7 @@ h3 {
 
 .navbar-brand {
   color: #000;
-  font-family: 'Bokor', serif;
+  font-family: 'Helvetica', serif;
   font-size: 2.5rem;
   font-weight: bold;
 }
@@ -79,14 +79,14 @@ h3 {
 .nav-link {
   color: #000;
   font-size: 1.2rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Helvetica', sans-serif;
 }
 
 
 
 /* Book pricing section */
 
-#pricing{
+#main, #author{
   padding: 100px;
   text-align: center;
   background-color: #000;
@@ -94,14 +94,18 @@ h3 {
 
 }
 
-.pricing-head {
+.main-head {
   color: #fca652;
 }
 
-.pricing-column {
+.main-column {
   padding: 3% 2%;
-  background-color: #fca652;
+
   color: #000;
+}
+
+.bob-about {
+  text-align: left;
 }
 
 /* News section */
