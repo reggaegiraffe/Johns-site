@@ -3,6 +3,12 @@
   color: #FFF;
 }
 
+#spectrum {
+  background-color: #000;
+  color: #FFF;
+  display: inline-elements;  
+}
+
 body {
   font-family: 'Helvetica', sans-serif;
 }
@@ -23,7 +29,7 @@ h2 {
 
 h3 {
   font-family: 'Helvetica', serif;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 .container-fluid {
